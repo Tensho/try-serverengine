@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    serverengine (2.0.5)
+      sigdump (~> 0.2.2)
+    sigdump (0.2.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  serverengine
+
+BUNDLED WITH
+   1.16.0
